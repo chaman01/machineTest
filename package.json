@@ -17,7 +17,7 @@
     "express-session": "^1.17.0",
     "file-extension": "^4.0.5",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.7",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
